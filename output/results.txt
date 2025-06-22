@@ -1,0 +1,11 @@
+IsoFLOPs Analysis Results
+=========================
+
+Model Size Scaling Law: N_opt = 1.33e-01 × C^0.515
+Dataset Size Scaling Law: D_opt = 1.25e+00 × C^0.485
+
+Predictions:
+- For 10^23 FLOPs: 9.11e+10 parameters, 1.83e+11 tokens
+- For 10^24 FLOPs: 2.98e+11 parameters, 5.59e+11 tokens
+
+Generated 9 optimal points from 9 compute budgets.
